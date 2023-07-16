@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/edyoda-subscription-plan/static/css/main.b07918d2.css",
+    "main.js": "/edyoda-subscription-plan/static/js/main.0471efe7.js",
+    "static/js/787.747b097f.chunk.js": "/edyoda-subscription-plan/static/js/787.747b097f.chunk.js",
+    "index.html": "/edyoda-subscription-plan/index.html",
+    "main.b07918d2.css.map": "/edyoda-subscription-plan/static/css/main.b07918d2.css.map",
+    "main.0471efe7.js.map": "/edyoda-subscription-plan/static/js/main.0471efe7.js.map",
+    "787.747b097f.chunk.js.map": "/edyoda-subscription-plan/static/js/787.747b097f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b07918d2.css",
+    "static/js/main.0471efe7.js"
+  ]
+}
