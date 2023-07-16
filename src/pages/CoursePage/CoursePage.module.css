@@ -1,0 +1,21 @@
+.content-container {
+    background-color: #172746;
+    min-width: 100%;
+    min-height: 100vh;
+    
+}
+
+
+.overlap {
+   display: flex;
+   justify-content: space-between;
+   padding: 1rem 3rem;
+   min-width: 100%;
+   min-height: 100vh;
+}
+
+@media screen and (max-width:700px) {
+    .overlap{
+        flex-direction: column;
+    }
+}
